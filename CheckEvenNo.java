@@ -13,7 +13,7 @@ public class CheckEvenNo {
 		{
 			System.out.println(1);
 		}
-		else
+		elsevbcgbfgbgb
 		{
 			System.out.println(0);
 		}
